@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- خلفية كاملة (صالحة كأيقونة maskable) والمحتوى داخل المنطقة الآمنة -->
+  <rect width="512" height="512" fill="#0f766e"/>
+  <rect x="146" y="118" width="220" height="276" rx="28" fill="#ffffff"/>
+  <rect x="146" y="118" width="44" height="276" rx="22" fill="#99f6e4"/>
+  <path d="M222 258l34 34 58-70" fill="none" stroke="#0f766e" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="222" y="326" width="100" height="14" rx="7" fill="#cbd5e1"/>
+  <rect x="222" y="352" width="64" height="14" rx="7" fill="#e2e8f0"/>
+</svg>
